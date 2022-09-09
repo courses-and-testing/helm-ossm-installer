@@ -1,0 +1,9 @@
+apiVersion: v2
+name: ossm-installer-chart
+description: A Helm chart for installing OpenShift Service Mesh
+
+type: application
+
+version: 0.1.0
+
+appVersion: "2.2.0"
